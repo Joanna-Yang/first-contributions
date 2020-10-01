@@ -1,4 +1,5 @@
 # Contributors
+- [Joanna Yang] (https://github.com/Joanna-Yang)
 - [Rachel Quan] (https://github.com/rachelquan)
 - [Anton Gudimov] (https://github.com/AntonGudimov)
 - [Shihaan](https://github.com/theneoterik)
